@@ -1,0 +1,19 @@
+{
+  "name": "Downloadr",
+  "version": "1.0.0",
+  "description": "downloads things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rainbowdash/Downloadr.git"
+  },
+  "author": "Aarocka, mbilker, scriptsrfun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainbowdash/Downloadr/issues"
+  },
+  "homepage": "https://github.com/rainbowdash/Downloadr"
+}
