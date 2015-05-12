@@ -25,7 +25,5 @@ metrics and junk.
 Downloader uses travis-ci. Everyone sign up for github educational pack so 
 you can get a ton of free shit.
 
-# Redmine/trello/youtrack
-Since we are working with a team of 3, we will need a way to manage the team.
-Redmine is an excelent project management tool written in RoR. Trello is 
-basically an online scrum board. YouTrack is made by the people who make pycharm and intelliJ IDEA 
+# Project management
+We will be using agile development. YouTrack basically lets us have the power of redmine fused with trello. [YouTrack](https://www.jetbrains.com/youtrack/?fromFooter)
