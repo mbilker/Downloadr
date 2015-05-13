@@ -1,5 +1,4 @@
-function foo (){
+exports.sanity = function (){
 	console.log("This works");
 	return 0;
 }
-foo();
