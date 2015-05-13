@@ -4,7 +4,7 @@
   "description": "downloads things",
   "main": "index.js",
   "scripts": {
-    "test": "tests/index.js"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
