@@ -4,7 +4,7 @@
   "description": "downloads things",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test/tests.js -R nyan"
   },
   "repository": {
     "type": "git",
