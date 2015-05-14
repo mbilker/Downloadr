@@ -26,4 +26,6 @@ Downloader uses travis-ci. Everyone sign up for github educational pack so
 you can get a ton of free shit.
 
 # Project management
-We will be using agile development. YouTrack basically lets us have the power of redmine fused with trello. [YouTrack](https://www.jetbrains.com/youtrack/?fromFooter)
+We will be using agile development. I changed my mind and now would rather 
+use trello. I found that it's easier to work with and can be modified to 
+produce charts and interface with github issues.
