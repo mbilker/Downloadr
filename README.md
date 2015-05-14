@@ -3,7 +3,7 @@
 
 # Downloadr
 This is a downloader of many things, torrents, arbitrary urls, bandcamp,
- soundcloud, and other junk.
+soundcloud, and other junk.
 
 # Features
 This is the initial feature set that we have to work for in the first release.
@@ -12,20 +12,21 @@ Downloadr can download from a variety of sources such as:
   * Download from bandcamp
   * Download from soundcloud
   * what.cd/animebytes.tv
-Downloadr can interface with rTorrent or Transmission for torrenting 
-while other sources can use node.js built in http handling to scrape and 
-download from bandcamp and soundcloud.
+  
+Downloadr can interface with rTorrent or Transmission for torrenting while other
+sources can use node.js built in http handling to scrape and download from
+bandcamp and soundcloud. We don't need to work on a front end for now.
 
 # Build system
-Something about grunt, test coverage, not wanting to pay for coveralls or 
-code climate. Something about generating our own badges for giving us 
-metrics and junk. 
+Something about grunt, test coverage, not wanting to pay for coveralls or
+code climate. Something about generating our own badges for giving us
+metrics and junk.
 
 # CI
-Downloader uses travis-ci. Everyone sign up for github educational pack so 
+Downloader uses travis-ci. Everyone sign up for github educational pack so
 you can get a ton of free shit.
 
 # Project management
-We will be using agile development. I changed my mind and now would rather 
-use trello. I found that it's easier to work with and can be modified to 
-produce charts and interface with github issues. 
+We will be using agile development. I changed my mind and now would rather
+use trello. I found that it's easier to work with and can be modified to
+produce charts and interface with github issues.
