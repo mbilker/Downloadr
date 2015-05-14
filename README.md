@@ -28,4 +28,4 @@ you can get a ton of free shit.
 # Project management
 We will be using agile development. I changed my mind and now would rather 
 use trello. I found that it's easier to work with and can be modified to 
-produce charts and interface with github issues.
+produce charts and interface with github issues. 
