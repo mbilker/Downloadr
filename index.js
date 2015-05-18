@@ -20,11 +20,11 @@ module.exports = {
 		}
 		else if (a <= 0) {
 			console.log('the value is positive');
-			return "the value is positive";
+			return "positive";
 		}
 		else{
 			console.log('the value is negative')
-			return "the value is negative";
+			return "negative";
 		}
 	}
 };
