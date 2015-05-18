@@ -26,5 +26,10 @@ module.exports = {
 			console.log('the value is negative')
 			return "negative";
 		}
+	},
+	//Sanity 5 is used to check the coverage reporters.
+	//Do not write unit test for now
+	sanity5: function(b){
+		return b+1;
 	}
 };
