@@ -18,7 +18,7 @@ module.exports = {
 			console.log('the value is 0');
 			return "0";
 		}
-		else if (a <= 0) {
+		else if (a > 0) {
 			console.log('the value is positive');
 			return "positive";
 		}
