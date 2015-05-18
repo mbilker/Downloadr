@@ -98,7 +98,7 @@ describe('Actual Sanity Check', function(){
   });
   
   describe('Sanity 4', function () {
-    it('Should return if a number is pos, neg, or 0',function () {
+    it('Should return 0, positive, or negative if a number is pos, neg, or 0',function () {
       assert.equal('0', sanity.sanity4(0));
       assert.equal('positive', sanity.sanity4(1));
       assert.equal('negative', sanity.sanity4(-1));
